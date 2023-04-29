@@ -1,3 +1,25 @@
 JavaScript (JS) is a lightweight and interpreted programming language having first-class functions(which means they are given the utmost priority over other objects in JS). It is mostly referred to as the scripting language for Web pages but nowadays it is also used by many non-browser environments(that execute JS out of the browser) such as Node.js, Adobe Acrobat, and Apache CouchDB.
 
 Initially, JavaScript was called "LiveScript" but later its name got changed from LiveScript to JavaScript to sound more familiar. The main motive behind building JavaScript was to make web pages lively. Sounds interesting right ? Those were the times when there used to be no fancy(by fancy I mean more functional) web pages hence it was the need of the hour. The web pages without JavaScript are called "Static" web pages while those with JavaScript are "Dynamic" web pages. Dynamic web pages are very user-friendly and intuitive.
+Here are some key points regarding JavaScript :
+
+Created by : Brendan Eich
+Year : 1995
+Mostly applied in Web Development
+Thread : single-threaded
+Let us now see some of the advantages of JavaScript that make it so a functional and convenient programming language.
+
+1. Simple Syntax
+JavaScript is a very easy-to-use programming language. Apart from this, it has a very simple syntax that can be easily understood by beginners as well as experienced programmers. Hence this makes Javascript a very beginner-friendly programming language.
+
+2. Client-side Execution
+JavaScript has "client-side" execution which simply means that the JavaScript code is executed in the client's browser. The client here is the user who is using the browser to access various websites. In simple words, whenever the web page loads in the client's browser, the JS of that web page gets executed there on the browser itself and the user/client doesn't have to deal with any non-browser software. Hence, Client-side code execution makes JavaScript a more convenient programming language.
+
+3. Huge Community Support
+As mentioned earlier, JavaScript was created in 1995 and is widely accepted. Hence JavaScript has huge developer community support. In simple words, developer community support helps you to solve the errors that you face while developing an application or while working with JavaScript. Adding to that, you can easily find solutions on StackOverflow for most of the errors/issues you face in JavaScript. JS is placed on top in some rankings based on its awesome developer community support.
+
+4. Validation on Browser
+You might have noticed that while filling out online forms, sometimes we get validation errors such as email is not valid, email format is incorrect, etc. These validations are done on the client side only using JavaScript. Imagine if there's no client-side validation, what would have happened if the user entered the wrong data ? It would have been sent to the server and then get validated there. This could have unnecessarily affected the bandwidth and could have wasted a lot of time on invalidations. Hence client-side validations protect bandwidth from getting affected and also save time. This also allows proper utilization of servers. Hence it becomes an amazing advantage for us.
+
+5. Rapid Growth and Development
+JavaScript is a constantly evolving programming language which means that it is developed and maintained as per the requirements of the modern world. The standards for JavaScript are the "ECMAScript Language Specification (ECMA-262)" and the "ECMAScript Internationalization API specification (ECMA-402)". Also, ES6 (ECMAScript 2015) is considered the most important update in JavaScript yet due to the amazing and powerful features it brought to the table such as the let keyword, the const keyword, Arrow Functions, For/of, Map Objects, Set Objects, Classes, Promises, etc.
